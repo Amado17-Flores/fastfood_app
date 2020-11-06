@@ -1,0 +1,4 @@
+#Fri Nov 06 16:12:55 CST 2020
+base.0=C\:\\Users\\Amado\\Documents\\fastfood_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
